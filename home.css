@@ -1,0 +1,57 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav-logo {
+    width: 40px;
+    margin: 3px;
+    margin-right: 8px;
+}
+
+nav {
+    color: #FFFFFF;
+    text-decoration-color: #FFFFFF;
+    font-weight: 600;
+}
+
+/* .navbar-brand {
+    color: #FFFFFF;
+    font-weight: 700;
+} */
+
+/* #white-font {
+    color: #FFFFFF;
+} */
+
+#white-font {
+    color: white !important;
+    text-decoration: none;
+}
+  
+
+#infopromo_blue{
+    background-color: #3A9EFC
+
+}
+
+#navbar-bg-color {
+    background-color: #3A9EFC;
+}
+
+/* montserrat classic no bold */
+#bold-600 {
+    font-weight: 600;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #FFFFFF;
+}
+
+/* Add underline to navbar links on hover */
+.navbar-nav .nav-link:hover {
+    text-decoration: underline;
+}
+
+.navbar-brand:hover {
+    text-decoration: underline;
+  }
