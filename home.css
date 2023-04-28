@@ -55,3 +55,7 @@ nav {
 .navbar-brand:hover {
     text-decoration: underline;
   }
+
+.banner-infopromo{
+    margin-top: 72px;
+}
