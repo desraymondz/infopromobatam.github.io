@@ -72,6 +72,8 @@ nav {
     margin-bottom: 40px;
     border-radius: 50px;
     width: 340px;
+    margin: auto;
+    margin-left: 240px;
 }
 
 .ipb-scale {
@@ -88,5 +90,15 @@ nav {
     box-shadow: 0 0 50px #3A9EFC;
 }
 
+.rekomendasi-home-feature {
+    font-size: 3em;
+    font-weight: 800;
+}
 
+.icon-margin {
+    margin: 1em;
+}
 
+.mb-80 {
+    margin-bottom: 80px;
+}
