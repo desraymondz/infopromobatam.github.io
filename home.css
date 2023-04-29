@@ -64,3 +64,29 @@ nav {
 .pinned-batam-home {
     width: 300px;
 }
+
+#pinned-batam-home-card {
+    background-color: #FFFFFF;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    border-radius: 50px;
+    width: 340px;
+}
+
+.ipb-scale {
+    transition: 0.5s;
+    transition-timing-function: ease-in-out;
+}
+
+#pinned-batam-home-card:hover {
+    transform: scale(1.1);
+}
+/* SCALING ZOOM COPY */
+
+.ipb-blue-shadow {
+    box-shadow: 0 0 50px #3A9EFC;
+}
+
+
+
