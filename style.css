@@ -39,8 +39,12 @@ nav {
 }
 
 /* montserrat classic no bold */
-#bold-600 {
+.bold-600 {
     font-weight: 600;
+}
+/* montserrat classic bold */
+.bold-800 {
+    font-weight: 800;
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -101,4 +105,15 @@ nav {
 
 .mb-80 {
     margin-bottom: 80px;
+}
+
+.ipb-blue-bg{
+    background-color: #3A9EFC;
+}
+
+#blog-home {
+    background-color: #FFFFFF;
+    padding: 50px;
+    width: 1200px;
+    border-radius: 50px;
 }
